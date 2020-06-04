@@ -1,0 +1,8 @@
+#requirements
+
+pot
+pickle
+pandas
+numpy
+matplotlib
+tikzplotlib
