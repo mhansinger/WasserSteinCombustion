@@ -11,10 +11,10 @@ the obtained value of the metric shares the same unit as the sample data. For in
 of temperature are considered, the corresponding Wasserstein metric in units of Kelvin can be interpreted as the
 average difference between the values of temperature from the two distributions. In the case of multidimensional
 distributions, each dimension is normalized before pair-wise distances are calculated. The choice of the normalization
-method is application-specic. In the present study, the marginal standard deviation is chosen. The so obtained W2 represents
+method is application-speciffc. In the present study, the marginal standard deviation is chosen. The so obtained W2 represents
 the averaged difference, which is proportional to the marginal standard deviations, between samples from the two distributions.
 
-The evaluation procedure is based on th work of:
+The evaluation procedure is based on the work of:
    -   Johnson, R., Wu, H., and Ihme, M. A general probabilistic approach for the quantitative assessment of LES combustion models.
         Combust. Flame 183, pp. 88-101, 2017.
 

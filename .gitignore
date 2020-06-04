@@ -1,6 +1,7 @@
 #gitignore
 
-.tex
-.pkl
+__pycache__
+*.tex
+*.pkl
 
 
