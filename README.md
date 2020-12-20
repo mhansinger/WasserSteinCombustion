@@ -28,7 +28,7 @@ Experimental data:
 
 Simulation data:
 -   Hansinger, M., Zirwes, T., Zips, J., Pfitzner, M., Zhang, F., Habisreuther, P. and Bockhorn, H.,
-        The Eulerian Stochastic Fields method applied to Large Eddy Simulations of a piloted flame with inhomogeneous inlet,
+        The Eulerian Stochastic Fields method applied to Large Eddy Simulations of a piloted flame with inhomogeneous inlet.
         Flow, Turbulence and Combustion, 2020. DOI:10.1007/s10494-020-00159-5
 
 The main file computes the Wasserstein metric calculation (W2), Transport matrix (Transport), and stacked Wasserstein
